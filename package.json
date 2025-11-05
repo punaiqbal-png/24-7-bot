@@ -1,1 +1,16 @@
+{
+  "name": "mineflayer-fullbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "mineflayer": "^4.33.0",
+    "mineflayer-pathfinder": "^1.4.0",
+    "mineflayer-auto-eat": "^1.0.2",
+    "vec3": "^0.1.2"
+  }
+}
 
